@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on: Java, Spring Technologies, React
+- 🌱 I’m currently learning: about Web Performance
+- 💬 Like to have a chat: about building scalable systems
+- 📫 How to reach me: sowmiyathilakavathi@gmail.com
+- 😄 Pronouns: She
+- ⚡ Fun fact: I am still practising DS and Algo
